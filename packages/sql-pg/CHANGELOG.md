@@ -1,5 +1,11 @@
 # @effect/sql-pg
 
+## 0.50.2
+
+### Patch Changes
+
+- [#5998](https://github.com/Effect-TS/effect/pull/5998) [`7b8165f`](https://github.com/Effect-TS/effect/commit/7b8165f45779380fea8ac8e09badef898b63eb41) Thanks @Brandon-Perry! - Readded stream as an optional parameter to PgClientConfig.
+
 ## 0.50.1
 
 ### Patch Changes
